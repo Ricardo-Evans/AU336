@@ -1,0 +1,5 @@
+<launch>
+
+    <node pkg="astar" type="astar" name="astar" output="screen"/>
+
+</launch>
